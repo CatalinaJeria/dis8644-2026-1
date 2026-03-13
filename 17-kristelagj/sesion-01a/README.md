@@ -1,5 +1,5 @@
 # sesion-01a
-*Apuntes clase 100326*
+**Apuntes clase 100326**
 
 - Tejido y proceso humano. Bordar y tejer cables
 
@@ -27,7 +27,7 @@
 
 - Electricidad amplificar
 
-*Referentes mencionados en clase*
+**Referentes mencionados en clase**
 
 - KORG
 
@@ -41,7 +41,7 @@
 
 - Gogbotic
 
-*Post clase*
+**Post clase**
 
 ¿Cómo tener un buen proceso en github?
 
@@ -54,7 +54,7 @@ Todo esto bien detallado (ser detallados siempre con lo que decimos como dijo Aa
 
 Sisters with Transistors
 
-*Investigación antes de ver el documental:*
+**Investigación antes de ver el documental:**
 
 Investigación rápida de wikipedia menciona que es un documental realizado a mujeres poco conocidas en el área de la música electrónica en donde encontraron libertad en un mundo dominado por hombres. Aquí podemos ver a detalle como ellas trabajan ¿La gente lo percibe como un manifiesto más que una película?
 
