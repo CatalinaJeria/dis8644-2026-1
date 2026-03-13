@@ -1,5 +1,5 @@
 # sesion-01a
-# tarea: sisters with transistors
+## tarea: sisters with transistors
 viernes 13 de marzo 2026 
 
 Daphne Oram: Compositora de música electrónica.
